@@ -1,4 +1,4 @@
-# DX11 (On Going Project)
+# DX11 (On Going Project -- Do not follow, but you may find some interesting info. in this wiki)
 
 From the [youtube]() tutorial series, and related [github repository](https://github.com/Pindrought/DirectX-11-Engine-VS2017/tree/Tutorial_1), a tutorial series on **directx 11** I am trying to illustrate for future reference. I am using visual studio 2019, win10 x64. 
 
